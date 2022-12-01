@@ -1,0 +1,47 @@
+body {
+    font-size: 14px;
+    background-color: red;
+}
+
+.machine {
+    margin-top: 20px;
+    background-color: red;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+}
+
+#canvas{
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+button {
+    width: 80px;
+    text-transform: uppercase;
+    font-weight: bold !important;
+}
+
+.toolbar{
+    border: 0px solid green;
+}
+.btn-round {
+    height: 80px;
+    border-radius: 50% !important;
+    font-size: 20px;
+    padding: 0;
+}
+
+.btn-square {
+
+    background-color: black;
+}
+
+input[type="color"]{
+    height: 40px;
+    width: 80px;
+    border: 3px solid black;
+}
