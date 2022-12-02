@@ -1,4 +1,3 @@
-import StorageUtils from "./utils/StorageUtils.js";
 import Canvas from "./Canvas.js";
 
 let c;
