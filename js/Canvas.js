@@ -19,7 +19,7 @@ export default class Canvas {
     drawLine(x0, y0, x1, y1) {
         this.ctx.beginPath();
         this.ctx.lineWidth = 1;
-        this.ctx.setLineDash([3, 3]);
+        this.ctx.setLineDash([5, 3]);
         this.ctx.moveTo(x0 + 0.5, y0 + 0.5);
         this.ctx.lineTo(x1 + 0.5, y1 + 0.5);
         this.ctx.stroke();
