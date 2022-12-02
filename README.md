@@ -1,21 +1,21 @@
-# Snake Game in JS
+# Etch-A-Sketch
 
-Play online the retro Snake game developed in Javascript
+Online Etch-A-Sketch where users can draw on the sketchpad using the mouse
 
-[![GitHub Release](https://img.shields.io/github/release/thiagodnf/snake-game-in-js.svg)](https://github.com/thiagodnf/snake-game-in-js/releases/latest)
-[![GitHub contributors](https://img.shields.io/github/contributors/thiagodnf/snake-game-in-js.svg)](https://github.com/thiagodnf/snake-game-in-js/graphs/contributors)
-[![GitHub stars](https://img.shields.io/github/stars/thiagodnf/snake-game-in-js.svg)](https://github.com/thiagodnf/snake-game-in-js)
+[![GitHub Release](https://img.shields.io/github/release/thiagodnf/etch-a-sketch.svg)](https://github.com/thiagodnf/etch-a-sketch/releases/latest)
+[![GitHub contributors](https://img.shields.io/github/contributors/thiagodnf/etch-a-sketch.svg)](https://github.com/thiagodnf/etch-a-sketch/graphs/contributors)
+[![GitHub stars](https://img.shields.io/github/stars/thiagodnf/etch-a-sketch.svg)](https://github.com/thiagodnf/etch-a-sketch)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ## How To Use
 
-Access the app [here](https://thiagodnf.github.io/snake-game-in-js).
+Access the app [here](https://thiagodnf.github.io/etch-a-sketch).
 
 ## Screenshots
 
 <kbd>
-<img src="https://user-images.githubusercontent.com/114015/201479888-65c2bc77-4d73-41e5-ba40-ed7cbaf26d94.jpg"/>
+<img src="https://user-images.githubusercontent.com/114015/205190865-1c8e0fef-03ca-40e4-90b7-5c63e4ebb6eb.png"/>
 </kbd>
 
 ## For Developers

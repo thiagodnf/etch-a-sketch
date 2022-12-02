@@ -1,14 +1,14 @@
 {
-    "name": "snake-game-in-js",
-    "version": "0.0.2",
+    "name": "etch-a-sketch",
+    "version": "0.0.1",
     "author": "Thiago Ferreira",
     "license": "MIT",
-    "description": "Play online the retro Snake game developed in Javascript",
-    "homepage": "https://thiagodnf.github.io/snake-game-in-js",
+    "description": "Online Etch-A-Sketch where users can draw on the sketchpad using the mouse",
+    "homepage": "https://thiagodnf.github.io/etch-a-sketch",
     "private": false,
     "repository": {
         "type": "git",
-        "url": "https://github.com/thiagodnf/snake-game-in-js"
+        "url": "https://github.com/thiagodnf/etch-a-sketch"
     },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
