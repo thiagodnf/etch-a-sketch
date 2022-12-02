@@ -8,7 +8,7 @@ let mousePosition = {
 
 function resizeWindow() {
 
-    $(".machine").height($(window).height() - 30*2)
+    $(".machine").height($(window).height() - 50*2)
 
     $(".toolbar").height(100);
 

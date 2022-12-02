@@ -15,7 +15,7 @@ Access the app [here](https://thiagodnf.github.io/etch-a-sketch).
 ## Screenshots
 
 <kbd>
-<img src="https://user-images.githubusercontent.com/114015/205190865-1c8e0fef-03ca-40e4-90b7-5c63e4ebb6eb.png"/>
+<img src="https://user-images.githubusercontent.com/114015/205192451-896136d9-bf43-4ed5-b426-fb0ed68126ea.png"/>
 </kbd>
 
 ## For Developers
