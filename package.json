@@ -1,6 +1,6 @@
 {
     "name": "etch-a-sketch",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "Thiago Ferreira",
     "license": "MIT",
     "description": "Online Etch-A-Sketch where users can draw on the sketchpad using the mouse",
