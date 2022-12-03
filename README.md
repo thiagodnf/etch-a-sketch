@@ -18,6 +18,9 @@ Access the app [here](https://thiagodnf.github.io/etch-a-sketch).
 <img class="screenshot" width="600px" src="https://user-images.githubusercontent.com/114015/205314820-d669f864-4959-4a91-835a-7c465113ba1f.png"/>
 </kbd>
 
+<img class="screenshot" width="200px" src="https://user-images.githubusercontent.com/114015/205314820-d669f864-4959-4a91-835a-7c465113ba1f.png"/>
+
+
 ## For Developers
 
 To install the this project in your machine, please install all dependencies by using the following command:
